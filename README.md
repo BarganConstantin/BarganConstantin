@@ -21,3 +21,5 @@
 <div align="center">
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=BarganConstantin&theme=github"/>
 </div>
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
