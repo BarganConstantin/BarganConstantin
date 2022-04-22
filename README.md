@@ -15,7 +15,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 <div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
+	<img src="https://cdn.jsdelivr.net/gh/BarganConstantin/BarganConstantin/assets/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
