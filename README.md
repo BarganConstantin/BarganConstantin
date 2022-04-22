@@ -22,4 +22,10 @@
     <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=BarganConstantin&theme=github"/>
 </div>
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+- name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v2
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
