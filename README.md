@@ -16,5 +16,7 @@
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
 <div align="center">
-  ![Snake animation](https://github.com/BarganConstantin/BarganConstantin/blob/output/github-contribution-grid-snake.svg)
+  
+![Snake animation](https://github.com/BarganConstantin/BarganConstantin/blob/output/github-contribution-grid-snake.svg)
+  
 <div/>
