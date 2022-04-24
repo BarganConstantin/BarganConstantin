@@ -15,4 +15,6 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
 
-![Snake animation](https://github.com/BarganConstantin/BarganConstantin/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  ![Snake animation](https://github.com/BarganConstantin/BarganConstantin/blob/output/github-contribution-grid-snake.svg)
+<div/>
