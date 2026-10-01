@@ -1,0 +1,11 @@
+{
+  "name": "profile-banner",
+  "private": true,
+  "description": "Builds ../assets/banner-{dark,light}.svg for the GitHub profile README.",
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "dependencies": {
+    "fontkit": "^2.0.4"
+  }
+}
