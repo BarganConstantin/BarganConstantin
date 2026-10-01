@@ -1,14 +1,16 @@
-
-<p><a href="https://ccdeck.dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"><img src="assets/banner-light.svg" width="846" alt="Constantin Bargan, software engineer in Chișinău. C# and .NET at work; after hours he builds ccdeck."></picture></a></p>
-
-I write C# and .NET backends for a living, in Chișinău, Moldova. After hours I build **[ccdeck](https://ccdeck.dev)**, a local dashboard for Claude Code and Codex CLI. It shows which session is waiting on you, every subagent and tool call as it runs, and the cost and quota left. Free and open source, with about 17,000 npm downloads in September 2026.
-
-```bash
-npx ccdeck
-```
-
-There is also a [desktop app](https://github.com/BarganConstantin/ccdeck/releases/latest) for macOS, Windows and Linux.
-
-Most other public repos here are university coursework; the code I write at work is private.
-
-<sub>[ccdeck.dev](https://ccdeck.dev) · [Source](https://github.com/BarganConstantin/ccdeck) · [Guides](https://ccdeck.dev/guides/) · [npm](https://www.npmjs.com/package/ccdeck)</sub>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
