@@ -1,16 +1,30 @@
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+### Constantin Bargan
+
+Software engineer in Chișinău. C# and .NET at work; in the evenings, tools for people who code with AI agents.
+
+&nbsp;
+
+<a href="https://ccdeck.dev">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BarganConstantin/ccdeck/main/assets/brand/ccdeck-horizontal-on-dark.svg">
+    <img src="https://raw.githubusercontent.com/BarganConstantin/ccdeck/main/assets/brand/ccdeck-horizontal-on-light.svg" alt="ccdeck" height="36">
+  </picture>
+</a>
+
+A local dashboard for Claude Code and Codex CLI. It shows which session is waiting on you, every subagent and tool call as it runs, and the cost and quota left. Free and open source.
+
+```bash
+npx ccdeck
+```
+
+[![npm downloads](https://img.shields.io/npm/dm/ccdeck?label=downloads&color=cb3837)](https://www.npmjs.com/package/ccdeck)
+[![GitHub stars](https://img.shields.io/github/stars/BarganConstantin/ccdeck?label=stars&color=e3b341)](https://github.com/BarganConstantin/ccdeck)
+
+[ccdeck.dev](https://ccdeck.dev) · [Source](https://github.com/BarganConstantin/ccdeck) · [Desktop app](https://github.com/BarganConstantin/ccdeck/releases/latest) · [Guides](https://ccdeck.dev/guides/)
+
+<a href="https://github.com/BarganConstantin/ccdeck"><img src="https://raw.githubusercontent.com/BarganConstantin/ccdeck/main/assets/canvas.png" alt="ccdeck: Claude Code and Codex sessions, subagents and tool calls on one canvas" width="760"></a>
+
+&nbsp;
+
+**Day to day:** C# · .NET · EF Core · SQL Server · Angular · TypeScript · Node.js<br>
+**Also:** Python · Next.js · Cloudflare Workers · Linux and Proxmox at home
