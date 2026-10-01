@@ -1,0 +1,8 @@
+{
+  "note": "Unchanged copies of ccdeck brand kit files. Never edit them; replace them from the kit.",
+  "source": "https://github.com/BarganConstantin/ccdeck/tree/main/src/web/public/brand",
+  "files": [
+    { "file": "ccdeck-mark-gradient-small-optical.svg", "kit": "01-brand-mark/svg/ccdeck-mark-gradient-small-optical.svg", "sha256": "a45069964738996812306d00f2b09097117876474bf2bec5dc28e689a7e3c93f" },
+    { "file": "ccdeck-mark-mono-dark-small-optical.svg", "kit": "01-brand-mark/svg/ccdeck-mark-mono-dark-small-optical.svg", "sha256": "6315facc68174d1cce4ab8370b94d136425bf2ee1c61bf98cb186b236809e28c" }
+  ]
+}
