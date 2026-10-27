@@ -1,18 +1,3 @@
-# Constantin Bargan
-
-**Engineer. Always building, always learning.**
-
-I build practical, open-source developer tools—especially around AI coding agents, observability, and reliable software.
-
-### Projects I'm building
-
-- **[ccdeck](https://github.com/BarganConstantin/ccdeck)** — a local dashboard for Claude Code and Codex sessions, subagents, tool activity, and usage.
-- **[First User Audit](https://github.com/BarganConstantin/agent-skills)** — an open-source Agent Skill for checking the first-use experience of web apps with real browser evidence. Try a [read-only Quick Check](https://github.com/BarganConstantin/agent-skills#try-quick-check) or inspect the [controlled example](https://github.com/BarganConstantin/agent-skills/tree/v0.2.0/examples/first-user-demo).
-
-If you're testing either project, feedback and reproducible bug reports are welcome.
-
-### Technologies I work with
-
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
