@@ -1,4 +1,4 @@
-# Constantin Bârgăn
+# Constantin Bargan
 
 **Engineer. Always building, always learning.**
 
